@@ -23,3 +23,6 @@ This Python project implements a negotiation chatbot using **Google Generative A
 2. Generate the API key from Google`s gemini AI site:
 - **API initialization**: create a new .env file and save the api key
 
+3. Run and retrive the logs:
+  **API log access**: API logs are created seperately in the directory and api calls are logged as the conversation moves
+
